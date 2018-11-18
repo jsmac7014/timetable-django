@@ -1,0 +1,49 @@
+{% extends 'tableapp/base.html' %}
+{% load static %}
+
+{% block head %}
+    <link rel="stylesheet" href="{%  static 'tableapp/card.css' %}">
+{% endblock %}
+
+{% block topnav %}
+    {% if user.is_authenticated %}
+        <div class="top-bar">
+            <div class="wrapper">
+                <div class="left">
+                    안녕하세요 {{ user.last_name }}{{ user.first_name }}님
+                </div>
+                <div class="right">
+                    <a href="/logout">logout</a>
+                </div>
+            </div>
+
+        </div>
+    {% endif %}
+{% endblock %}
+
+{% block content %}
+
+    {% for act in acts %}
+        <div class="activity-card" style="background-color:{{ act.color }};" >
+            <form action="{% url 'delete' act.day act.id %}" method="post">
+                {% csrf_token %}
+                <input type="submit" value="Delete" />
+            </form>
+            <div class="card-wrapper">
+                <div class="time">
+                    <span>{{ act.fromTime }}</span>
+                    <span>~</span>
+                    <span>{{ act.toTime }}</span>
+                </div>
+                <div class="content">
+                    <h1>{{ act.content }}</h1>
+                </div>
+            </div>
+        </div>
+    {% endfor %}
+    <a class="add-card" href="/make" target="_blank">
+        <i class="material-icons">
+        add
+        </i>
+    </a>
+{% endblock %}

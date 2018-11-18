@@ -1,0 +1,55 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no">
+    <title>Title</title>
+    <link rel="stylesheet" href="{%  static 'tableapp/base.css' %}">
+    <link rel="stylesheet" href="{%  static 'tableapp/navigation.css' %}">
+    <link href="https://fonts.googleapis.com/css?family=Noto+Sans+KR" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet">
+    {% block head %}
+
+    {% endblock %}
+</head>
+<body>
+    {% block topnav %}
+
+    {% endblock %}
+    <div class="navigation">
+        <div class="nav-wrapper">
+             <div class="nav-items {% if day == "월요일" %} selected {% endif %}">
+                <a class="" href="/table/월요일">월요일</a>
+            </div>
+            <div class="nav-items {% if day == "화요일" %} selected {% endif %}">
+                <a class="" href="/table/화요일">화요일</a>
+            </div>
+            <div class="nav-items {% if day == "수요일" %} selected {% endif %}">
+                <a class="" href="/table/수요일">수요일</a>
+            </div>
+            <div class="nav-items {% if day == "목요일" %} selected {% endif %}">
+                <a class="" href="/table/목요일">목요일</a>
+            </div>
+            <div class="nav-items {% if day == "금요일" %} selected {% endif %}">
+                <a class="" href="/table/금요일">금요일</a>
+            </div>
+            <div class="nav-items {% if day == "토요일" %} selected {% endif %}">
+                <a class="" href="/table/토요일">토요일</a>
+            </div>
+            <div class="nav-items {% if day == "일요일" %} selected {% endif %}">
+                <a class="" href="/table/일요일">일요일</a>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="wrapper">
+            {% block content %}
+            {% endblock %}
+        </div>
+    </div>
+
+</body>
+</html>
