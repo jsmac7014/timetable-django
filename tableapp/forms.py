@@ -9,8 +9,11 @@ class ActivityForm(ModelForm):
         model = Activity
         fields = ['content', 'day', 'fromTime','toTime']
         widgets={
-            "fromTime":TimeInput(attrs={'type':'time','class':'time'}),
-            "toTime":TimeInput(attrs={'type':'time', 'class':'time'}),
+            "fromTime":TimeInput(attrs={'type':'time','class':'tb-input'}),
+            "toTime":TimeInput(attrs={'type':'time', 'class':'tb-input'}),
+            "content":TimeInput(attrs={'class':'tb-input', 'placeholder':'할 일'}),
+
+
         }
             
 

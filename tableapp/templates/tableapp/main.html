@@ -9,12 +9,8 @@
     {% if user.is_authenticated %}
         <div class="top-bar">
             <div class="wrapper">
-                <div class="left">
-                    안녕하세요 {{ user.last_name }}{{ user.first_name }}님
-                </div>
-                <div class="right">
-                    <a href="/logout">logout</a>
-                </div>
+                <h3>안녕하세요 {{ user.last_name }}{{ user.first_name }}님</h3>
+                <a href="/logout">로그아웃</a>
             </div>
 
         </div>
@@ -25,11 +21,15 @@
 
     {% for act in acts %}
         <div class="activity-card" style="background-color:{{ act.color }};" >
-            <form action="{% url 'delete' act.day act.id %}" method="post">
-                {% csrf_token %}
-                <input type="submit" value="Delete" />
-            </form>
             <div class="card-wrapper">
+                <form class="delete-form" action="{% url 'delete' act.day act.id %}" method="post">
+                    {% csrf_token %}
+                    <button class="delete-button" type="submit">
+                        <i class="material-icons">
+                        close
+                        </i>
+                    </button>
+                </form>
                 <div class="time">
                     <span>{{ act.fromTime }}</span>
                     <span>~</span>
