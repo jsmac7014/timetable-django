@@ -13,17 +13,18 @@
     <link href="https://fonts.googleapis.com/css?family=Noto+Sans+KR:100,300,400,500,700,900&amp;subset=korean" rel="stylesheet">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
       rel="stylesheet">
-    <title>Document</title>
+    <title>회원가입</title>
 </head>
 <body>
     <div class="sign-up container">
+        <div class="header">
+            <h1>회원가입</h1>
+        </div>
         <div class="sign-up wrapper">
             <form method="POST" class="sign-up form">
-                <h1>회원가입</h1>
-
                 {% csrf_token %}
                 {{ form }}
-                <button class="tb-button" type="submit">회원가입</button>
+                <input type="submit" class="tb-button" value="회원가입">
             </form>
         </div>
 

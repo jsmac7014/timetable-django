@@ -26,7 +26,7 @@ form{
     margin: 0 auto;
 }
 
-form > input,.custom-select{
+form > input,.tb-select{
     margin-bottom: 40px;
 }
 

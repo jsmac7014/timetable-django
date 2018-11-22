@@ -1,6 +1,6 @@
 .tb-input{
     all:unset;
-    /*width: 70%;*/
+    /*width: 100%;*/
     height: 30px;
     padding: 10px;
     margin: 5px;
@@ -17,7 +17,7 @@
 }
 .tb-button{
     all:unset;
-    /*width: 70%;*/
+    /*width: 100%;*/
     margin: 5px;
     padding: 20px 10px;
     text-align: center;
@@ -38,48 +38,19 @@
     cursor: pointer;
 }
 
-.custom-select {
-    position: relative;
-}
-.custom-select select {
-  display: none; /*hide original SELECT element:*/
-}
-
-.select-selected {
-    /*width: 70%;*/
-    background: #ffffff;
+.tb-select{
     border: 2px solid #e6e9ef;
-    margin: 5px;
     border-radius: 5px;
     height: 30px;
-    line-height: 30px;
     padding: 10px;
-    color: #000;
-}
 
-.select-items div,.select-selected {
-    color: #444444;
-    margin: 5px;
-    padding: 10px;
-    height: 30px;
-    line-height: 30px;
-    cursor: pointer;
 }
-
-.select-items {
-    /*width: 70%;*/
-    border-radius:5px;
-    position: absolute;
-    background-color: #ffffff;
-    top: 100%;
-    left: 0;
-    right: 0;
-    z-index: 99;
+.tb-select select {
+    all:unset;
+    width: 100%;
+    font-size:1rem;
+    line-height: 1rem;
 }
-
-.select-hide {
-  display: none;
-}
-.select-items div:hover, .same-as-selected {
-  background-color: rgba(0, 0, 0, 0.1);
+.tb-select select:focus{
+    outline: none;
 }

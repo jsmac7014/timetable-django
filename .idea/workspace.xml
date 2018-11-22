@@ -2,6 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2d47a3d-a595-4f4c-8a77-6c9440216332" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tableapp/static/tableapp/input.css" beforeDir="false" afterPath="$PROJECT_DIR$/tableapp/static/tableapp/input.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tableapp/static/tableapp/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/tableapp/static/tableapp/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tableapp/static/tableapp/make.css" beforeDir="false" afterPath="$PROJECT_DIR$/tableapp/static/tableapp/make.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tableapp/templates/tableapp/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/tableapp/templates/tableapp/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tableapp/templates/tableapp/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/tableapp/templates/tableapp/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tableapp/templates/tableapp/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/tableapp/templates/tableapp/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tableapp/templates/tableapp/make.html" beforeDir="false" afterPath="$PROJECT_DIR$/tableapp/templates/tableapp/make.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tableapp/templates/tableapp/signup.html" beforeDir="false" afterPath="$PROJECT_DIR$/tableapp/templates/tableapp/signup.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/timetable/local_settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/timetable/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/timetable/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/timetable/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/timetable/wsgi.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -17,28 +31,28 @@
     <session id="1597334770">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="16" />
+          <entry key="project.closed" value="17" />
           <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.4" value="7" />
+          <entry key="project.open.time.4" value="8" />
           <entry key="project.open.time.5" value="4" />
-          <entry key="project.opened" value="17" />
+          <entry key="project.opened" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Procfile" value="1" />
-          <entry key="css" value="20" />
-          <entry key="html" value="21" />
+          <entry key="css" value="24" />
+          <entry key="html" value="26" />
           <entry key="py" value="39" />
           <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="20" />
-          <entry key="HTML" value="21" />
+          <entry key="CSS" value="24" />
+          <entry key="HTML" value="26" />
           <entry key="PLAIN_TEXT" value="4" />
           <entry key="Python" value="39" />
         </counts>
@@ -46,19 +60,19 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Procfile" value="9" />
-          <entry key="css" value="6762" />
+          <entry key="css" value="7450" />
           <entry key="dummy" value="1" />
-          <entry key="html" value="4639" />
-          <entry key="py" value="3993" />
+          <entry key="html" value="5295" />
+          <entry key="py" value="4003" />
           <entry key="txt" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="6762" />
-          <entry key="HTML" value="4639" />
+          <entry key="CSS" value="7450" />
+          <entry key="HTML" value="5295" />
           <entry key="PLAIN_TEXT" value="14" />
-          <entry key="Python" value="3993" />
+          <entry key="Python" value="4003" />
         </counts>
       </usages-collector>
     </session>
@@ -66,79 +80,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tableapp/templates/tableapp/main.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tableapp/static/tableapp/make.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            <state relative-caret-position="420">
+              <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/requirements.txt">
+        <entry file="file://$PROJECT_DIR$/tableapp/static/tableapp/login.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="15" lean-forward="true" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Procfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="29" lean-forward="true" selection-start-column="29" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/timetable/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-624">
-              <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
-              <folding>
-                <element signature="e#314#323#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/timetable/wsgi.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="e#226#235#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/runtime.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/timetable/local_settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tableapp/templates/tableapp/make.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+            <state relative-caret-position="1605">
+              <caret line="107" column="1" selection-start-line="107" selection-start-column="1" selection-end-line="107" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -146,8 +109,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tableapp/static/tableapp/input.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+            <state relative-caret-position="750">
+              <caret line="50" column="19" selection-start-line="50" selection-start-column="19" selection-end-line="50" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tableapp/templates/tableapp/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tableapp/templates/tableapp/signup.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="57" lean-forward="true" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tableapp/templates/tableapp/make.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="17" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -155,8 +145,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tableapp/templates/tableapp/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" selection-start-line="10" selection-end-line="11" />
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -192,26 +182,26 @@
         <option value="$PROJECT_DIR$/tableapp/static/tableapp/navigation.css" />
         <option value="$PROJECT_DIR$/tableapp/templates/tableapp/register.html" />
         <option value="$PROJECT_DIR$/tableapp/static/tableapp/component.css" />
-        <option value="$PROJECT_DIR$/tableapp/templates/tableapp/base.html" />
         <option value="$PROJECT_DIR$/tableapp/models.py" />
         <option value="$PROJECT_DIR$/tableapp/urls.py" />
         <option value="$PROJECT_DIR$/tableapp/views.py" />
         <option value="$PROJECT_DIR$/tableapp/static/tableapp/base.css" />
         <option value="$PROJECT_DIR$/tableapp/static/tableapp/card.css" />
-        <option value="$PROJECT_DIR$/tableapp/templates/tableapp/main.html" />
         <option value="$PROJECT_DIR$/tableapp/forms.py" />
-        <option value="$PROJECT_DIR$/tableapp/static/tableapp/login.css" />
-        <option value="$PROJECT_DIR$/tableapp/templates/tableapp/login.html" />
-        <option value="$PROJECT_DIR$/tableapp/templates/tableapp/signup.html" />
-        <option value="$PROJECT_DIR$/tableapp/static/tableapp/input.css" />
-        <option value="$PROJECT_DIR$/tableapp/templates/tableapp/make.html" />
-        <option value="$PROJECT_DIR$/tableapp/static/tableapp/make.css" />
         <option value="$PROJECT_DIR$/timetable/local_settings.py" />
         <option value="$PROJECT_DIR$/runtime.txt" />
         <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/Procfile" />
-        <option value="$PROJECT_DIR$/timetable/settings.py" />
         <option value="$PROJECT_DIR$/timetable/wsgi.py" />
+        <option value="$PROJECT_DIR$/timetable/settings.py" />
+        <option value="$PROJECT_DIR$/tableapp/static/tableapp/login.css" />
+        <option value="$PROJECT_DIR$/tableapp/static/tableapp/make.css" />
+        <option value="$PROJECT_DIR$/tableapp/templates/tableapp/login.html" />
+        <option value="$PROJECT_DIR$/tableapp/templates/tableapp/make.html" />
+        <option value="$PROJECT_DIR$/tableapp/templates/tableapp/base.html" />
+        <option value="$PROJECT_DIR$/tableapp/templates/tableapp/main.html" />
+        <option value="$PROJECT_DIR$/tableapp/static/tableapp/input.css" />
+        <option value="$PROJECT_DIR$/tableapp/templates/tableapp/signup.html" />
       </list>
     </option>
   </component>
@@ -222,9 +212,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="120" />
+    <option name="x" value="401" />
     <option name="y" value="23" />
-    <option name="width" value="1800" />
+    <option name="width" value="1519" />
     <option name="height" value="1119" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -233,13 +223,43 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="timetable-django" type="b2602c69:ProjectViewProjectNode" />
               <item name="timetable-django" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="timetable-django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="timetable-django" type="462c0819:PsiDirectoryNode" />
+              <item name="tableapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="timetable-django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="timetable-django" type="462c0819:PsiDirectoryNode" />
+              <item name="tableapp" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="timetable-django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="timetable-django" type="462c0819:PsiDirectoryNode" />
+              <item name="tableapp" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="tableapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="timetable-django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="timetable-django" type="462c0819:PsiDirectoryNode" />
+              <item name="tableapp" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="timetable-django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="timetable-django" type="462c0819:PsiDirectoryNode" />
+              <item name="tableapp" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="tableapp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="timetable-django" type="b2602c69:ProjectViewProjectNode" />
@@ -255,6 +275,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -297,10 +318,9 @@
     <option name="totallyTimeSpent" value="95000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="120" y="23" width="1800" height="1119" extended-state="0" />
-    <editor active="true" />
+    <frame x="401" y="23" width="1519" height="1119" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23321956" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2802979" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="0" sideWeight="0.4992636" weight="0.32929516" />
@@ -314,7 +334,7 @@
       <window_info anchor="bottom" id="TODO" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49272728" visible="true" weight="0.32814023" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49272728" visible="true" weight="0.32814023" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5072727" side_tool="true" weight="0.32929516" />
       <window_info anchor="right" id="SciView" order="0" />
       <window_info anchor="right" id="Database" order="1" />
@@ -393,9 +413,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="e#22#31#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -419,13 +436,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tableapp/static/tableapp/card.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tableapp/static/tableapp/base.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="507">
@@ -437,113 +447,87 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="77" selection-start-line="13" selection-start-column="77" selection-end-line="13" selection-end-column="77" />
-          <folding>
-            <element signature="e#1#87#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tableapp/templates/tableapp/main.html">
+    <entry file="file://$PROJECT_DIR$/timetable/local_settings.py" />
+    <entry file="file://$PROJECT_DIR$/runtime.txt" />
+    <entry file="file://$PROJECT_DIR$/Procfile" />
+    <entry file="file://$PROJECT_DIR$/requirements.txt" />
+    <entry file="file://$PROJECT_DIR$/tableapp/static/tableapp/card.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="68" lean-forward="true" selection-start-line="4" selection-start-column="68" selection-end-line="4" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tableapp/templates/tableapp/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tableapp/templates/tableapp/signup.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tableapp/static/tableapp/login.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1440">
-          <caret line="96" lean-forward="true" selection-start-line="96" selection-end-line="96" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tableapp/templates/tableapp/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tableapp/static/tableapp/input.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tableapp/templates/tableapp/make.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/timetable/local_settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/runtime.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tableapp/static/tableapp/make.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="15" lean-forward="true" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Procfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="29" lean-forward="true" selection-start-column="29" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/timetable/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-624">
-          <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
-          <folding>
-            <element signature="e#314#323#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="285">
+          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/timetable/wsgi.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/timetable/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-592">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tableapp/templates/tableapp/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tableapp/static/tableapp/make.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tableapp/static/tableapp/login.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1605">
+          <caret line="107" column="1" selection-start-line="107" selection-start-column="1" selection-end-line="107" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tableapp/static/tableapp/input.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="50" column="19" selection-start-line="50" selection-start-column="19" selection-end-line="50" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tableapp/templates/tableapp/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tableapp/templates/tableapp/make.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#226#235#0" expanded="true" />
-          </folding>
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tableapp/templates/tableapp/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tableapp/templates/tableapp/signup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="57" lean-forward="true" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
         </state>
       </provider>
     </entry>
