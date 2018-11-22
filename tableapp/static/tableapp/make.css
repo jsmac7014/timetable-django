@@ -9,15 +9,17 @@ form{
     justify-content: center;
 }
 .header{
-    margin: 50px 0px;
+    margin: 50px auto;
 }
-
-.header > h1 {
-    margin: 0px;
-    margin-right: -1em;
+.header-wrapper{
+    width: 100%;
+    margin: 0 auto;
+}
+.header > .header-wrapper > h1 {
+    text-align: center;
+    text-indent: 1em;
     letter-spacing: 1em;
     font-size: 5rem;
-    text-align: center;
 }
 
 .wrapper{
@@ -31,7 +33,7 @@ form > input,.tb-select{
 }
 
 @media (max-width: 480px){
-    .header > h1 {
+    .header > .header-wrapper > h1 {
         font-size: 3rem;
     }
     .wrapper{
